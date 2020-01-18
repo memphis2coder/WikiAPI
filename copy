@@ -1,0 +1,26 @@
+    {
+        "_id": "5e2213c860e2df85fc370c92",
+        "title": "REST",
+        "content": "REST is short for REpresentational State Transfer. It's an architectural style for designing API's"
+    },
+    {
+        "_id": "5e221c3460e2df85fc370d0e",
+        "title": "Express",
+        "content": "A web program framework that is easy to use, light and portable"
+    },
+    {
+        "_id": "5e221c5f60e2df85fc370d1c",
+        "title": "React",
+        "content": "A javascript library that is used for building user interfaces"
+    },
+    {
+        "_id": "5e221cc460e2df85fc370d3c",
+        "title": "MongoDB",
+        "content": "a NoSQL Database that stores data in binary JSON format"
+    },
+    {
+        "_id": "5e2263d96f447419117094db",
+        "title": "Node.js",
+        "content": "A server-side JavaScript execution environment.",
+        "__v": 0
+    }
